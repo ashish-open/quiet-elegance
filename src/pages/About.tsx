@@ -71,22 +71,7 @@ const About = () => {
 
             <div className="gold-divider my-12" />
 
-            <h2 className="font-serif text-2xl md:text-3xl text-charcoal mb-6">
-              Who We Serve
-            </h2>
-
-            <p className="text-charcoal/80 leading-relaxed mb-8">
-              Shikharam welcomes students of all ages and backgrounds, but our 
-              approach is best suited for those who share certain values: a 
-              respect for tradition, a willingness to practice with discipline, 
-              and an understanding that true art cannot be rushed.
-            </p>
-
-            <p className="text-charcoal/80 leading-relaxed">
-              If you seek to learn classical music not as a hobby but as a 
-              practice—a way of refining the self through sound—then Shikharam 
-              may be the place for you.
-            </p>
+            
           </div>
         </div>
       </article>
